@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+  <channel id="RakutenTVTheGuardian.us">
+    <display-name>Rakuten TV The Guardian</display-name>
+  </channel>
+  <programme start="20250705174648 " stop="20250705184648 " channel="RakutenTVTheGuardian.us">
+    <title>Notícias do Dia</title>
+    <desc>As últimas notícias e destaques do dia.</desc>
+  </programme>
+</tv>
