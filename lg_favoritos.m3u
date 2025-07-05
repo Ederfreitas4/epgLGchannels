@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Adventure Earth (GB)
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,Autentic History (GB)
+https://autentic-autentichistory-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,BBC Earth (US)
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1,BBC Dinos 24x7 (US)
+https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Curiousity Now (US) Geo
+https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Docu Plus C7 (US)
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,El Pais
+https://daiconnect.com/live/hls/tvup/lg-elpais/56f0832110a1bbaecc3a45a27ddba1d9/.m3u8
+#EXTINF:-1,History Time (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+#EXTINF:-1,Historia Yvida (ES) Geo
+https://amg01821-lovetv-amg01821c22-lg-es-3264.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS History (IE) Geo
+https://amg02333-pbs-amg02333c3-lg-ie-2837.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lgie/playlist.m3u8
+#EXTINF:-1,PBS Nature (US) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
+#EXTINF:-1,PBS Science (AU) Geo
+https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Waterbear Network (AU)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8
