@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="bbc.dinos.24x7.us">
+    <display-name>BBC Dinos 24x7 (US)</display-name>
+  </channel>
+  <channel id="autentic.history.gb">
+    <display-name>Autentic History (GB)</display-name>
+  </channel>
+  <channel id="adventure.earth">
+    <display-name>Adventure Earth</display-name>
+  </channel>
+  <channel id="autentic.history.se">
+    <display-name>Autentic History (SE)</display-name>
+  </channel>
+  <channel id="bbc.earth">
+    <display-name>BBC Earth</display-name>
+  </channel>
+  <channel id="docu.plus">
+    <display-name>Docu Plus</display-name>
+  </channel>
+  <channel id="curiosity.now">
+    <display-name>Curiosity Now</display-name>
+  </channel>
+  <channel id="el.pais">
+    <display-name>El País</display-name>
+  </channel>
+  <channel id="history.time">
+    <display-name>History Time</display-name>
+  </channel>
+  <channel id="historia.y.vida">
+    <display-name>Historia y Vida</display-name>
+  </channel>
+  <channel id="pbs.history">
+    <display-name>PBS History</display-name>
+  </channel>
+  <channel id="pbs.science">
+    <display-name>PBS Science</display-name>
+  </channel>
+  <channel id="pbs.nature">
+    <display-name>PBS Nature</display-name>
+  </channel>
+  <channel id="waterbear.network">
+    <display-name>Waterbear Network</display-name>
+  </channel>
+  <channel id="newsworld">
+    <display-name>Newsworld</display-name>
+  </channel>
+  <channel id="actualidad.360">
+    <display-name>Actualidad 360</display-name>
+  </channel>
+  <channel id="da.vinci">
+    <display-name>Da Vinci</display-name>
+  </channel>
+  <channel id="xploration.station">
+    <display-name>Xploration Station</display-name>
+  </channel>
+  <channel id="reuters">
+    <display-name>Reuters</display-name>
+  </channel>
+  <channel id="the.guardian">
+    <display-name>The Guardian</display-name>
+  </channel>
+  <channel id="magellan.tv.now">
+    <display-name>Magellan TV Now</display-name>
+  </channel>
+</tv>
